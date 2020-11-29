@@ -1,6 +1,8 @@
 ### Ricardo Oliva Alonso
-#### Ingeniero en Sistemas Computacionales
-#### Desarrollador Frontend
+Hi devs, I'm a front-end developer, who has hobbie to do illustrations and animations only with html and css (also javascript if necessary). My love of animation started approximately 10 years ago thanks to the Macromedia Flash software. So I want to share with you what I have done in the last few months. You can see the projects in Codepen.
+
+- 🌱 I’m currently learning React
+
 
 <!--
 **ricardoolivaalonso/ricardoolivaalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
