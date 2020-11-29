@@ -3,7 +3,6 @@ Hi devs, I'm a front-end developer, who has hobbie to do illustrations and anima
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me: [Twitter](https://twitter.com/rolivaalonso)
-https://twitter.com/i/status/1307998006185132033
 
 
 
