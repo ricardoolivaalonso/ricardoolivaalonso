@@ -1,7 +1,9 @@
 ### Ricardo Oliva Alonso
-Hi devs, I'm a front-end developer, who has hobbie to do illustrations and animations only with html and css (also javascript if necessary). My love of animation started approximately 10 years ago thanks to the Macromedia Flash software. So I want to share with you what I have done in the last few months. You can see the projects in Codepen.
+Hi devs, I'm a front-end developer, who has hobbie to do illustrations and animations only with html and css (also javascript if necessary). My love of animation started approximately 10 years ago thanks to the Macromedia Flash software. So I want to share with you what I have done in the last few months. You can see the projects in [Codepen](https://codepen.io/ricardoolivaalonso/).
 
 - 🌱 I’m currently learning React
+- 📫 How to reach me: [Twitter](https://twitter.com/rolivaalonso)
+
 
 
 <!--
